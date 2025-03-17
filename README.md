@@ -1,0 +1,1 @@
+In this project gradio and youtube_transcript_api packages are used to get transcript from youtube video url, user has to paste the url of the video and click the button generate transcript and it will generate the transcript from the video it is fast and accurate
